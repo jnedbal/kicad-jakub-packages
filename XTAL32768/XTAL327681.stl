@@ -1,0 +1,142 @@
+solid XTAL32768.c/body.C/bodys.r
+  facet normal 0.000000 0.000000 1.000000
+    outer loop
+      vertex -1.318890 0.669290 0.984250
+      vertex 1.673220 -0.669290 0.984250
+      vertex 1.673220 0.669290 0.984250
+    endloop
+  endfacet
+  facet normal 0.000000 0.000000 1.000000
+    outer loop
+      vertex -1.318890 0.669290 0.984250
+      vertex -1.318890 -0.669290 0.984250
+      vertex 1.673220 -0.669290 0.984250
+    endloop
+  endfacet
+  facet normal 0.000000 -0.996815 0.079745
+    outer loop
+      vertex -1.318890 -0.669290 0.984250
+      vertex 1.712590 -0.708660 0.492125
+      vertex 1.673220 -0.669290 0.984250
+    endloop
+  endfacet
+  facet normal 0.000000 -0.996815 0.079745
+    outer loop
+      vertex -1.318890 -0.669290 0.984250
+      vertex -1.712590 -0.708660 0.492125
+      vertex 1.712590 -0.708660 0.492125
+    endloop
+  endfacet
+  facet normal -0.000000 0.996815 0.079745
+    outer loop
+      vertex -1.712590 0.708660 0.492125
+      vertex 1.673220 0.669290 0.984250
+      vertex 1.712590 0.708660 0.492125
+    endloop
+  endfacet
+  facet normal -0.000000 0.996815 0.079745
+    outer loop
+      vertex -1.712590 0.708660 0.492125
+      vertex -1.318890 0.669290 0.984250
+      vertex 1.673220 0.669290 0.984250
+    endloop
+  endfacet
+  facet normal -0.780869 0.000000 0.624695
+    outer loop
+      vertex -1.712590 0.708660 0.492125
+      vertex -1.318890 -0.669290 0.984250
+      vertex -1.318890 0.669290 0.984250
+    endloop
+  endfacet
+  facet normal -0.780869 0.000000 0.624695
+    outer loop
+      vertex -1.712590 0.708660 0.492125
+      vertex -1.712590 -0.708660 0.492125
+      vertex -1.318890 -0.669290 0.984250
+    endloop
+  endfacet
+  facet normal 0.996815 -0.000000 0.079745
+    outer loop
+      vertex 1.712590 -0.708660 0.492125
+      vertex 1.712590 0.708660 0.492125
+      vertex 1.673220 -0.669290 0.984250
+    endloop
+  endfacet
+  facet normal 0.996815 -0.000000 0.079745
+    outer loop
+      vertex 1.712590 0.708660 0.492125
+      vertex 1.673220 0.669290 0.984250
+      vertex 1.673220 -0.669290 0.984250
+    endloop
+  endfacet
+  facet normal 0.996815 -0.000000 -0.079745
+    outer loop
+      vertex 1.712590 0.708660 0.492125
+      vertex 1.673220 -0.669290 0.000000
+      vertex 1.673220 0.669290 0.000000
+    endloop
+  endfacet
+  facet normal 0.996815 -0.000000 -0.079745
+    outer loop
+      vertex 1.712590 0.708660 0.492125
+      vertex 1.712590 -0.708660 0.492125
+      vertex 1.673220 -0.669290 0.000000
+    endloop
+  endfacet
+  facet normal -0.996815 -0.000000 -0.079745
+    outer loop
+      vertex -1.712590 0.708660 0.492125
+      vertex -1.673220 -0.669290 0.000000
+      vertex -1.712590 -0.708660 0.492125
+    endloop
+  endfacet
+  facet normal -0.996815 -0.000000 -0.079745
+    outer loop
+      vertex -1.712590 0.708660 0.492125
+      vertex -1.673220 0.669290 0.000000
+      vertex -1.673220 -0.669290 0.000000
+    endloop
+  endfacet
+  facet normal -0.000000 0.996815 -0.079745
+    outer loop
+      vertex -1.673220 0.669290 0.000000
+      vertex 1.712590 0.708660 0.492125
+      vertex 1.673220 0.669290 0.000000
+    endloop
+  endfacet
+  facet normal -0.000000 0.996815 -0.079745
+    outer loop
+      vertex -1.673220 0.669290 0.000000
+      vertex -1.712590 0.708660 0.492125
+      vertex 1.712590 0.708660 0.492125
+    endloop
+  endfacet
+  facet normal 0.000000 -0.996815 -0.079745
+    outer loop
+      vertex -1.712590 -0.708660 0.492125
+      vertex 1.673220 -0.669290 0.000000
+      vertex 1.712590 -0.708660 0.492125
+    endloop
+  endfacet
+  facet normal 0.000000 -0.996815 -0.079745
+    outer loop
+      vertex -1.712590 -0.708660 0.492125
+      vertex -1.673220 -0.669290 0.000000
+      vertex 1.673220 -0.669290 0.000000
+    endloop
+  endfacet
+  facet normal -0.000000 -0.000000 -1.000000
+    outer loop
+      vertex 1.673220 0.669290 0.000000
+      vertex -1.673220 -0.669290 0.000000
+      vertex -1.673220 0.669290 0.000000
+    endloop
+  endfacet
+  facet normal -0.000000 -0.000000 -1.000000
+    outer loop
+      vertex 1.673220 0.669290 0.000000
+      vertex 1.673220 -0.669290 0.000000
+      vertex -1.673220 -0.669290 0.000000
+    endloop
+  endfacet
+endsolid XTAL32768.c/body.C/bodys.r

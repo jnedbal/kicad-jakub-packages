@@ -1,0 +1,4 @@
+in body1s.s rcc 0 0 0   0 0 2.71653   2.48031
+in body1h.s rcc 0 0 0.7874   0 0 2.71653   0.3937
+comb piezo.c u body1s.s - body1h.s
+mater piezo.c "plastic" 0 0 0 0
